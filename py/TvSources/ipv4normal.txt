@@ -1,16 +1,15 @@
 CCTV-4K 高清,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-5 体育赛事,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing
 CCTV-6 电影频道,https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8
 CCTV-15 音乐,https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8
 CCTV-16 4K,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1759076164-1dd4ef6eda0927e0215ebdfde3de4e52-0-285f278805f899389c2478224e6a7257
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1759163418-3f106a617082e12de3903cec095b8b01-0-8cf2f07dc2a2a94d8d9b5b5017507bf1
 广东卫视,https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8
 安徽卫视,https://piccpndks.v.kcdnvip.com/audio/anhui_2/index.m3u8
 黑龙江卫视,http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 辽宁卫视,https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509290101/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509300023/app_2/_definst_/ls_2.stream/chunklist.m3u8
 四川卫视,https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 天津卫视,https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8
 云南卫视,http://p.ytelc.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 广西卫视,https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz05ZjNiOTk3MWQwMzAxZTdmNjQ5Yjk3ZDZjMzQ4MWQ1OCZ1aWQ9JnV1aWQ9NTRiZTE5ZTNmZDhiNmFiNDBkYjk1NGU2MjQ4OWYwNGUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1OTEwMDU3OQ,,/JYKTMPP360.m3u8
+金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9MjlkYThlODMyYjJjZDQ5ZWMzNmNjN2NhNTBhZGVhNjcmdWlkPSZ1dWlkPTA0NTZlYjY1NDI2Y2IxMGNhNzA4ZGEzZmZhODM3YzU5LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NTkxODczOTM,/JYKTMPP360.m3u8
