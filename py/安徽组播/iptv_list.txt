@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-12-19 18:42:18,url
+2025-12-20 18:38:08,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,6 +9,6 @@
 其他频道,#genre#:
 
 
-<html><body><h1>403 Forbidden</h1>
-Request forbidden by administrative rules.
-</body></html>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.</h3>
+</div>
