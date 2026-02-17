@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-02-16 18:58:19,url
+2026-02-17 19:09:52,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,38 +9,6 @@
 其他频道,#genre#:
 
 
-<html>
-<head>
-<title>aktv.top</title>
-<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
-<script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260217-0558-199d-9de4-5d4ab6e3bc62&';
-let redirected = false;
-
-function redirect(suffix) {
-	if (redirected) return;
-	redirected = true;
-	window.location.replace(redirect_link + suffix);
-}
-
-const rdrTimeout = setTimeout(() => redirect('fp=-7'), 300);
-
-try {
-	FingerprintJS.load({monitoring: false})
-		.then(fp => fp.get())
-		.then(result => {
-			clearTimeout(rdrTimeout);
-			redirect('fp=' + result.visitorId);
-		});
-} catch (err) {
-	redirect('fp=-7');
-}
-
-</script>
-<style> body { background:#101c36 } </style>
-</head>
-<body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260217-0558-199d-9de4-5d4ab6e3bc62&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260217-0558-199d-9de4-5d4ab6e3bc62&fp=-5"></noscript>
-</body>
-</html>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.</h3>
+</div>
