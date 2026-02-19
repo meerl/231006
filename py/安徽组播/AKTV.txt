@@ -3,7 +3,7 @@
 <title>aktv.top</title>
 <script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
 <script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260219-0608-251d-848e-9a137b162304&';
+var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260220-0603-53b7-9014-004777c66f7e&';
 let redirected = false;
 
 function redirect(suffix) {
@@ -29,7 +29,7 @@ try {
 <style> body { background:#101c36 } </style>
 </head>
 <body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260219-0608-251d-848e-9a137b162304&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260219-0608-251d-848e-9a137b162304&fp=-5"></noscript>
+<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260220-0603-53b7-9014-004777c66f7e&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260220-0603-53b7-9014-004777c66f7e&fp=-5"></noscript>
 </body>
 </html>
