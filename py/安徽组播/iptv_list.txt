@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-02-28 18:45:44,url
+2026-03-01 18:46:39,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -14,7 +14,7 @@
 <title>aktv.top</title>
 <script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
 <script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260301-0545-4452-9821-c180d735a475&';
+var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260302-0546-39f7-b0e2-53cdd038cd46&';
 let redirected = false;
 
 function redirect(suffix) {
@@ -40,7 +40,7 @@ try {
 <style> body { background:#101c36 } </style>
 </head>
 <body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260301-0545-4452-9821-c180d735a475&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260301-0545-4452-9821-c180d735a475&fp=-5"></noscript>
+<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260302-0546-39f7-b0e2-53cdd038cd46&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260302-0546-39f7-b0e2-53cdd038cd46&fp=-5"></noscript>
 </body>
 </html>
