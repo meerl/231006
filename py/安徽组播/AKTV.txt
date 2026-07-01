@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>aktv.top</title>
+<script async src="https://assets.abovedomains.com/javascript/forsale.min.js?d=aktv.top"></script>
+<style>body{background:#101c36;color:#fff}h1{text-align:center;margin-top:1rem}</style>
+</head>
+<body>
+<h1>aktv.top</h1>
+</body>
+</html>

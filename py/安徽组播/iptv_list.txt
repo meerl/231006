@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-06-30 20:10:15,url
+2026-07-01 20:08:02,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,3 +9,14 @@
 其他频道,#genre#:
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>aktv.top</title>
+<script async src="https://assets.abovedomains.com/javascript/forsale.min.js?d=aktv.top"></script>
+<style>body{background:#101c36;color:#fff}h1{text-align:center;margin-top:1rem}</style>
+</head>
+<body>
+<h1>aktv.top</h1>
+</body>
+</html>
